@@ -16,9 +16,9 @@ Clone-youtube-user foi um Projeto desenvolvido para o evento Maratona da [Kenzie
 
 ### Comandos
 
-| Comando                                    | O que faz?            | Observação               |
-| ------------------------------------------ | --------------------- | ------------------------ |
-| `git clone https://github.com/lobinhodev/` | Clona meu repositório | **Execute no terminal!** |
+| Comando                                                      | O que faz?            | Observação               |
+| ------------------------------------------------------------ | --------------------- | ------------------------ |
+| `git clone https://github.com/lobinhodev/Clone-youtube-user` | Clona meu repositório | **Execute no terminal!** |
 
 ### Desktop
 
