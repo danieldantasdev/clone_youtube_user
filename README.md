@@ -15,7 +15,16 @@
 | ------------------------------------------ | --------------------- | ------------------------ |
 | `git clone https://github.com/lobinhodev/` | Clona meu repositório | **Execute no terminal!** |
 
+## 💻 Projeto
+
+Clone-youtube-user foi um Projeto desenvolvido para o evento Maratona da [KenzieAcademy](https://github.com/Kenzie-Academy-Brasil), cujo qual participei. O mesmo é responsivo para as diferentes resoluções.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 ### Desktop
+
+## 📢 Visite o site
+
+[Clone-youtube-user](https://lobinhodev.github.io/Clone-youtube-user/).
 
 <p align="center">
   <img width="600" src=".github/Desktop.gif">
@@ -26,10 +35,6 @@
 <p align="center">
   <img width="400"  src=".github/Mobile.gif">
 </p>
-
-## 📢 Visite o site
-
-[Clone-youtube-user](https://lobinhodev.github.io/Clone-youtube-user/).
 
 ## 🧠 Tecnologias
 
@@ -54,12 +59,6 @@ Utilitários
     --decidi utilizar esse site para criação do favicon a partir da minha logo.
 -   [UiGradient](https://uigradients.com/#CocoaaIce)
 -   [CSS Wand](https://www.csswand.dev)
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## 💻 Projeto
-
-Clone-youtube-user foi um Projeto desenvolvido para o evento Maratona da [KenzieAcademy](https://github.com/Kenzie-Academy-Brasil), cujo qual participei. O mesmo é responsivo para as diferentes resoluções.
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Checkpoints das aulas no Notion
