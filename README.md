@@ -6,6 +6,10 @@ Clone-youtube-user foi um Projeto desenvolvido para o evento Maratona da [Kenzie
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## 📢 Visite o site
+
+[Clone-youtube-user](https://lobinhodev.github.io/Clone-youtube-user/).
+
 ## Pré-requisitos
 
 -   `Git`
@@ -27,10 +31,6 @@ Clone-youtube-user foi um Projeto desenvolvido para o evento Maratona da [Kenzie
 <p align="center">
   <img width="400"  src=".github/Mobile.gif">
 </p>
-
-## 📢 Visite o site
-
-[Clone-youtube-user](https://lobinhodev.github.io/Clone-youtube-user/).
 
 ## 🧠 Tecnologias
 
