@@ -52,7 +52,6 @@ Bibliotecas
 Utilitários
 
 -   [Favicon](https://favicon.io/)
-    --decidi utilizar esse site para criação do favicon a partir da minha logo.
 -   [UiGradient](https://uigradients.com/#CocoaaIce)
 -   [CSS Wand](https://www.csswand.dev)
 <p align="right">(<a href="#top">back to top</a>)</p>
