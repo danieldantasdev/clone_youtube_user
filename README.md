@@ -14,6 +14,10 @@ Clone-youtube-user foi um Projeto desenvolvido para o evento Maratona da [Kenzie
 
 -   `Git`
 
+## Indicações
+
+- Clone meu repositório e faça uma Fork
+
 ### Comandos
 
 | Comando                                                      | O que faz?            | Observação               |
